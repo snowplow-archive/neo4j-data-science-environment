@@ -19,3 +19,4 @@ Vagrant.configure("2") do |config|
   config.vm.provision :shell do |sh|
     sh.path = "vagrant/up.bash"
   end
+end
