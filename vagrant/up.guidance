@@ -1,0 +1,6 @@
+To get started:
+
+Once the VM is up and running, you should be able to:
+
+1. Browse to localhost:7474 on your host machine to log into Neo4j
+2. Or start the Neo4j shell with `./bin/neo4j-shell` on guest
