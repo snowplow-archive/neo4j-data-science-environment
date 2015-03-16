@@ -1,4 +1,4 @@
-# Neo4j Development environment
+# Neo4j data science environment
 
 VM with complete Neo4j environment. Setup an Neo4j development environment without any faff.
 
